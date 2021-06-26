@@ -15,8 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: VTEX DOCS
 description: Unofficial VTEX documentation, not meant to replace the original
-baseurl: "/vtex-docs" # the subpath of your site, e.g. /blog
-url: "https://git-the-sanz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: pmarsceill/just-the-docs
 
 permalink: pretty
