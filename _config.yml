@@ -23,10 +23,6 @@ remote_theme: pmarsceill/just-the-docs
 # Uncommenting the following line doesn't work - see https://github.com/jekyll/jekyll/issues/4791
 # include: ["docs/tests/"]
 
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
-, "docs/tests/"
-]
-
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
 
