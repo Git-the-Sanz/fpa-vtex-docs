@@ -1,3 +1,10 @@
+---
+layout: default
+title: Messages
+parent: Basics
+nav_order: 5
+---
+
 Por defecto, las aplicaciones nativas vienen con textos en diferentes idiomas, incluido el Español; a veces es necesario cambiarlos de acuerdo al requerimiento del cliente, para eso podemos hacer uso de la app encargada de mutar estos `messages`  
 
 [Instrucciones](https://developers.vtex.com/vtex-developer-docs/docs/storefront-content-internationalization){: .md-button .md-button--primary }

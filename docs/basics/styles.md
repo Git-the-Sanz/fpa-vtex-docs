@@ -1,3 +1,9 @@
+---
+layout: default
+title: Styles
+parent: Basics
+nav_order: 2
+---
 ### Selectores
 
 A fin de mejorar la estabilidad del sitio VTEX limitó el uso de selectores CSS

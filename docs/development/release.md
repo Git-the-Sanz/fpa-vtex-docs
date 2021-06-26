@@ -1,3 +1,11 @@
+---
+layout: default
+title: Releases
+parent: Development
+nav_order: 3
+---
+
+
 [Instrucciones](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-releasing-a-new-app-version){: .md-button .md-button--primary }
 
 ## Minors o Patches

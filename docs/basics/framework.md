@@ -1,3 +1,9 @@
+---
+layout: default
+title: Store Framework
+parent: Basics
+nav_order: 1
+---
 
 Se encarga de definir la estructura básica de cualquier tienda en la plataforma.
 Es la interfaz entre la tienda y el desarrollador mediante los denominados _Builders_

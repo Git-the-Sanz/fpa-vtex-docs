@@ -1,3 +1,10 @@
+---
+layout: default
+title: Masterdata V1
+parent: Development
+nav_order: 2
+---
+
 **URL Masterdata:** `http://{environment}.vtexcrm.com.br`  
 
 ## ¿Que es Masterdata V1?

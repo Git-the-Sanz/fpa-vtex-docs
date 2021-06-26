@@ -1,3 +1,10 @@
+---
+layout: default
+title: Toolbelt
+parent: Basics
+nav_order: 3
+---
+
 # VTEX CLI
 
 Cualquier desarrollo en VTEX IO comienza y termina con VTEX Toolbelt.  

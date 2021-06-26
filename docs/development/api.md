@@ -1,3 +1,10 @@
+---
+layout: default
+title: API
+parent: Development
+nav_order: 1
+---
+
 # API
 
 El core del desarrollo de VTEX se centra en su amplia libreria  
